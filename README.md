@@ -32,11 +32,10 @@
 
 ## Input:
 
-### Output:
+### Output: ![Screenshot (17)](https://github.com/user-attachments/assets/7172d23d-45ae-4769-b166-2c8e188acc4d)
 
-
-### Name:
-### Register Number:
+### Name: DHARSHINI R.
+### Register Number: 24006560
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
